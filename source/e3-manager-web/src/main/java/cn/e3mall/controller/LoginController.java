@@ -15,10 +15,9 @@ import cn.e3mall.common.utils.E3Result;
 import cn.e3mall.service.LoginService;
 
 /**
- * 用户登录处理
+ * 用户登录处理hello
  * <p>Title: LoginController</p>
  * <p>Description: </p>
- * <p>Company: www.itcast.cn</p> 
  * @version 1.0
  */
 @Controller
