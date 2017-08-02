@@ -15,8 +15,7 @@ import cn.e3mall.service.ItemCatService;
  * 商品分类管理Controller
  * <p>Title: ItemCatController</p>
  * <p>Description: </p>
- * <p>Company: www.itcast.cn</p> 
- * @version 1.0
+* @version 1.0
  */
 @Controller
 public class ItemCatController {
